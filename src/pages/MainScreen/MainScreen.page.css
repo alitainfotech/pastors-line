@@ -1,0 +1,12 @@
+.main-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.buttons-container {
+  display: flex;
+  gap: 10px;
+}
